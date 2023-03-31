@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my website!"
+title: "Laura F White"
 ---
 
-You're up and running!
+I am a Professor of Biostatistics at the School of Public Health at Boston University. My lab's research focuses on developing and repurposing statistical methods for solving problems in infectious disease and substance use disorders. We are particularly interested in methods to better understand infectious disease transmission dynamics and the burden of infectious diseases and substance use disorders. We make use of machine learning methods, survival analysis tools, time series, and Bayesian computational methods. Our areas of application are primarily in Tuberculosis, COVID-19, HIV, Hepatitis C, and Opioid Use Disorder.
